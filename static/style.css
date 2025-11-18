@@ -1,15 +1,20 @@
 body {
 
-    background-color: #ffffcc;
-    color: black;
+    background-color: azure;
+    color: DarkBlue;
 }
 
 div#footer {
     
+	
     font-size: 0.8em;
-    background-color: #ccffff;
-    border: 4px solid grey;
+    background-color: azure;
+    border: 4px solid DarkBlue;
     margin-top: 3em;
     padding: 1em;
 }
 
+ p {
+      color: DarkBlue;
+	  font-family: "Times New Roman", Times, serif;
+    }
