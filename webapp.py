@@ -44,7 +44,7 @@ def renderPage4():
     else:
         q1='incorrect'
         
-    if session["question2"] == '27':
+    if session["question2"] == '36':
         q2='correct'
     else:
         q2='incorrect'
